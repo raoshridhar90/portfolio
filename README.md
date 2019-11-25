@@ -1,8 +1,9 @@
-## Sridhar Rao // Technical Writer // 
+# Sridhar Rao // Technical Writer // Jazz Fusion Aficionado
 
-Technical writer based in Pune 
+Technical writer based in Pune, Permanent Residence approved for Canada, Looking for a job in Canada
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Work Experience
+
 
 ### Markdown
 
