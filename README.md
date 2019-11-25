@@ -2,8 +2,7 @@
 
 Technical writer based in Pune, Permanent Residence approved for Canada, Looking for a job in Canada
 
-# Work Experience
-
+## Work Experience
 
 ### Markdown
 
