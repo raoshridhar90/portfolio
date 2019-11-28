@@ -3,9 +3,9 @@ Sridhar Rao // Technical Writer // Jazz Fusion Aficionado
 
 Technical writer based in Pune, Permanent Residence approved for Canada, Looking for a job in Canada
 
-## Work Experience
-**Technical Writer**
-*Entercoms Solutions Pvt. Ltd., Entercoms Inc.*
+## Work Experience  
+**Technical Writer**  
+*Entercoms Solutions Pvt. Ltd., Entercoms Inc.*  
 2017 - present
 
 
