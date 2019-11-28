@@ -13,4 +13,6 @@ I had created this how-to guide to explain downloading torrents to any audience.
 ## Winnsboro Brochure  
 Our class needed to create a brochure and my friend Molly said her hometown needed an overhaul of their marketing material. This brochure went through multiple iterations before my portfolio committee was satisfied with the final design.  
 *Tools used: Adobe Indesign, Adobe Photoshop*  
-![Winnsboro Brochure](winnsboro_brochure.jpg "Winnsboro Brochure")
+<p align="center">
+  <img src="winnsboro_brochure.jpg" width="350" title="hover text">
+</p>
