@@ -1,5 +1,5 @@
 # Work samples  
 
-<figure class="embed">
-<iframe src="heuristic_analysis.md" style="width:718px; height:700px;" frameborder="0"></iframe>
+<figure class="embed_pdf">
+<embed src="http://example.com/the.pdf" width="500" height="375" type="application/pdf">
 </figure>
