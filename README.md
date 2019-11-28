@@ -3,6 +3,6 @@ Sridhar Rao // Technical Writer // Jazz Fusion Aficionado
 
 Technical writer based in Pune, Permanent Residence approved for Canada, Looking for a job in Canada
 
-**[Work Experience](workexperience.md)**
-**[Education](education.md)** *Not operational yet*
-**[Portfolio](porfolio.md)**
+**[Work Experience](workexperience.md)**  
+**[Education](education.md)** *Not operational yet*  
+**[Portfolio](porfolio.md)**  
