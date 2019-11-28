@@ -5,4 +5,4 @@ Technical writer based in Pune, Permanent Residence approved for Canada, Looking
 
 **[Work Experience](workexperience.md)**  
 **[Education](education.md)**  
-**[Portfolio](porfolio.md)**
+**[Portfolio](portfolio.md)**
