@@ -1,10 +1,3 @@
-<<<<<<< Updated upstream
----
-layout: default
----
-
-=======
->>>>>>> Stashed changes
 Sridhar Rao // Technical Writer // Jazz Fusion Aficionado
 =========================================================
 
