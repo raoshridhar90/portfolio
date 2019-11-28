@@ -15,14 +15,16 @@ Our class needed to create a brochure and my friend Molly said her hometown need
 *Tools used: Adobe Indesign, Adobe Photoshop*  
 <p align="center">
   <img src="winnsboro_brochure.jpg" width="350" title="Winnsboro Brochure">
-</p>
+</p>  
+To download this image, click on the link here: [Winnsboro Brochure](winnsboro_brochure.jpg)
 
 ## Self-mailer postcard
 This was another piece we created for the Winnsboro marketing overhaul. This is a [self-mailer](https://www.nextmark.com/glossary-term/self-mailer/) for the Winnsboro Center for the Arts Bonnie and Clyde play. I've rotated the second page by 90 degrees for viewing ease.  
 *Tools used: Adobe Indesign, Adobe Photoshop*  
 <p align="center">
-  <img src="self_mailer_1.jpg" width="350" height="350" title="Self Mailer 1">
+  <img src="self_mailer_1.jpg" width="350" height="500" title="Self Mailer 1">
 </p>  
 <p align="center">
-  <img src="self_mailer_2.jpg" width="350" height="350" title="Self Mailer 2">
-</p>
+  <img src="self_mailer_2.jpg" width="500" height="350" title="Self Mailer 2">
+</p>  
+To download both images, click the following links: [Self-Mailer 1](self_mailer_1.jpg) [Self-Mailer 2](self_mailer_2.jpg)
