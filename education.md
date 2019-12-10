@@ -1,7 +1,7 @@
 Education
 =========
 
-## **Master of Arts, Professional and Technical Communication**
+## **Master of Arts, Professional and Technical Communication**  
 ### *University of North Texas, 2017*
 
 ### Courses taken
@@ -25,8 +25,8 @@ Education
 - Markdown (hey, this is mostly .md)
 - Sphinx
 
-## **Bachelor of Mass Media, focus in Journalism**
+## **Bachelor of Mass Media, focus in Journalism**  
 ### *University of Mumbai, 2015*
 
-## **Bachelor of Engineering, Mechanical Engineering**
+## **Bachelor of Engineering, Mechanical Engineering**  
 ### s*University of Mumbai, 2010 (did not complete)*
